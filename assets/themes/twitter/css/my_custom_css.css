@@ -3,11 +3,11 @@
     padding-left:20px;
     padding-right:20px;
     background-color:#fafafa;
-    background-image:-moz-linear-gradient(top, #0d00f2, #0d00f2);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#0d00f2), to(#0d00f2));
-    background-image:-webkit-linear-gradient(top, #0d00f2, #0d00f2);
-    background-image:-o-linear-gradient(top, #0d00f2, #0d00f2);
-    background-image:linear-gradient(to bottom, #0d00f2, #0d00f2);
+    background-image:-moz-linear-gradient(top, #708090, #708090);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#708090), to(#708090));
+    background-image:-webkit-linear-gradient(top, #708090, #708090);
+    background-image:-o-linear-gradient(top, #708090, #708090);
+    background-image:linear-gradient(to bottom, #708090, #708090);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
     border:1px solid #edffff;
     -webkit-border-radius:4px;
